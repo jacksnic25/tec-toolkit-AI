@@ -1,0 +1,10 @@
+www
+mail
+ftp
+admin
+webmail
+api
+dev
+test
+staging
+secure

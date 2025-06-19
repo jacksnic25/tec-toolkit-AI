@@ -1,0 +1,14 @@
+{
+    "virustotal": "bdae812306316e26a89955b5d9832ebde64eab0c9b937efb8d46b3fe4f20e23a",
+        "shodan" :"0Pgp256AO4PJRahxe2BsvJ3ZcJKDH1e1",
+            "abuseipdb": "70f55304f8b8ed197c095d3d642a6dba866d1ff83b85d1a9145bda757c47c2333cf6bd0139197dbd",
+    "google_api": {
+        "key": "AIzaSyCjyXTJCBqYCUsw6ALbg3thzsDpFYivtSk",
+        "cx": "84f320ff6255041a1"
+
+    },
+    "settings": {
+        "timeout": 30,
+        "max_retries": 3
+    }
+}
